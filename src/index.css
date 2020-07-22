@@ -1,0 +1,40 @@
+body {
+  padding-top: 56px;
+}
+
+.product-img-link {
+  align-self: center;
+}
+
+.product-img {
+  height: 300px;
+  max-width: 99%;
+}
+
+.img-gallery {
+  display: flex;
+  flex-direction: column;
+}
+
+.small-img {
+  margin: 20px auto;
+  height: 50px;
+  max-width: 99%;
+}
+
+.price {
+  color: #b12704;
+}
+
+.block {
+  display: block !important;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.color-badge {
+  margin: 0 10px;
+  line-height: inherit;
+}
